@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.quiz-bg-container{
+  background-color: #875fc0;
+  height: 100vh;
+  width: 400px;
+  margin-left: 35%;
+}
+.score{
+  color: white;
+  font-size: 25px;
+  font-family: "roboto";
+  font-weight: bold;
+  padding-top: 25px;
+  padding-right: 20px;
+  text-align: end;
+
+
+}
+.div1{
+  
+  background-color: white;
+  border-radius: 20px;
+  border-width: 0px;
+  margin: 20px;
+  text-align: center;
+}
+.heading{
+  color: #1f2933;
+  font-size: 25px;
+  font-family: "roboto";
+  font-weight: bold;
+  padding-top: 20px;
+  
+
+}
+.pag{
+  color: #323f4b;
+  font-size: 15px;
+  font-family: "roboto";
+  font-weight: 100;
+
+}
+.img{
+  height: 100px;
+  width: 180px;
+  margin-bottom: 20px;
+  
+}
+.div2{
+  background-color: white;
+  border-radius: 20px;
+  border-width: 0px;
+  margin: 20px;
+  padding: 20px;
+  
+}
+.aa {
+  text-align: center;
+  list-style-type: none;
+  margin-right: 30px;
+  
+}
+.c{
+  background-color: #875fc0;
+  color: white;
+  
+}
+.button{
+  background-color:#fbaf00;
+  color: white;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-left: 110px;
+  height: 38px;
+  width: 110px;
+  cursor: pointer;
+}
+
+
+.option {
+  border-width: 0.5px;
+  border-color: black;
+  margin: 10px;
+  height: 40px;
+  padding-top: 20px;
+  border-radius: 7px;
+  border-style: solid;
+}

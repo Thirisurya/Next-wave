@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 400px;
+    margin-left: 40%;
+    }
+    .head1{
+        color: white;
+        font-family: "bree serif";
+        font-size: 25px;
+        font-weight: bold;
+        padding-top: 50px;
+        text-align: center;
+    }
+    .pag1{
+        color: white;
+        font-family: "bree serif";
+        font-size: 18px;
+        font-weight: 300;
+        text-align: center;
+        padding: 20px;
+
+    }
+    .night{
+        background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+        background-size: cover;
+        height: 35vh;
+        width: 250px;
+        margin-left: 60px;
+        border-radius: 20px;
+
+
+    }
+    .head2{
+        color: white;
+        font-family: "bree serif";
+        font-size: 25px;
+        font-weight: bold;
+        padding-top: 50px;
+        text-align: center;
+
+    }
+    .pag2{
+        color: white;
+        font-family: "bree serif";
+        font-size: 18px;
+        font-weight: 300;
+        text-align: center;
+        padding: 20px;
+
+   
+    }
+    .button1{
+        background-color: #8e97fd;
+        border-radius: 20px;
+        border-width: 0px;
+        color: white;
+        font-family: "bree serif";
+        font-size: 18px;
+        font-weight: 300;
+        margin-left: 150px;
+        height: 38px;
+        width: 120px;
+    }
+    .bg-container2{
+        background-color: #03174c;
+        height: auto;
+        width: 400px;
+
+    }
+    .img1{
+        margin-left: 5px;
+        margin-top: 5px;
+        height: 40vh;
+        width: 390px;
+    }
+    .island{
+        color: white;
+        font-family: "bree serif";
+        font-size: 25px;
+        font-weight: bold;
+        padding: 20px;
+    }
+    .e,.e2{
+        color: #98a1bd;
+        font-family: "bree serif";
+        font-size: 15px;
+        font-weight: 200;
+        padding-left: 20px;
+    }
+    .r1{
+        color: white;
+        font-family: "bree serif";
+        font-size: 20px;
+        font-weight: bold;
+        padding-left: 20px;
+    }
+    .related1{
+        height: 20vh;
+        width: 25vw;
+    }
+    .moon{
+        color: white;
+        font-family: "bree serif";
+        font-size: 18px;
+        font-weight: 200;
+    }
+    .ts{
+        
+        padding: 20px;
+    }
+    .related2{
+        margin-left: 10px;
+    
+    }
+    .min{
+        color: #98a1bd;
+        font-family: "bree serif";
+        font-size: 15px;
+        font-weight: 200;
+        
+
+    }
+    

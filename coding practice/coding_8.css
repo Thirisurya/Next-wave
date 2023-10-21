@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.movie-container{
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+  background-size: cover;
+  padding: 20px;
+  
+}  
+.heading{
+  color:white;
+  font-size: 30px;
+  font-family: "roboto";
+  font-weight: bold;
+  padding: 20px;
+}
+.button{
+  background-color: white;
+  color: #ff8348;
+  font-size: 18px;
+  font-family: "roboto";
+  font-weight: 200;
+  border-radius: 20px;
+  border-width: 0px;
+  margin-top: 25px;
+  margin-right: 20px;
+  height: 38px;
+  width: 110px;
+}
+.pag{
+  color: white;
+  font-size: 15px;
+  font-family: "roboto";
+  font-weight: 200;
+  padding: 20px;
+}
+.heading2{
+  color: white;
+  font-size: 25px;
+  font-family: "roboto";
+  font-weight: 300;
+  padding-left: 20px;
+
+}
+.img1,.img2,.img3{
+  padding: 20px;
+
+}
